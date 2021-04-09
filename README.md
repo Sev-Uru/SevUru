@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SevUru
+- 👋 Hi, I’m @Sev-Uru
 - 👀 I’m interested in game dev, simulations, and general programming
 - 🌱 I’m currently learning C# with Unity
 - 💞️ I’m looking to collaborate on physics and small games
