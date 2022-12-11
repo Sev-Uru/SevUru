@@ -1,6 +1,3 @@
-Sev is Snek
+# Sev is Snek
 
-<!---
-SevUru/SevUru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+am learning python thru exploration and friend tutoring
